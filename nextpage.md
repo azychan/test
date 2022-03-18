@@ -1,7 +1,7 @@
 ---
-title: PAGE TITLE HERE
-layout: template
-filename: nextpage.md
+layout: page
+title: "PAGE TITLE"
+permalink: /nextpage/
 --- 
 
 # testing
